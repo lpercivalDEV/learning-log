@@ -45,3 +45,10 @@ A personal catalog of skills gained/reviewed/honed and links to useful resources
 
 
 ## Future Learning Goals
+
+* Virtual Reality
+* Animation
+* Unity 
+* C
+* More experience with hardware
+
