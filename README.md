@@ -75,6 +75,16 @@ www.lillythedev.com
 
 ## In Progress
 
+Skill breakdown from [*....] to  [*****]
+
+
+[*....]: https://st2.depositphotos.com/1575949/7913/v/950/depositphotos_79132680-stock-illustration-noob-red-stamp-text.jpg
+
+[**...]: https://memegenerator.net/img/instances/51470542/patience-padawan-getting-there-we-are-almost.jpg
+
+[*****]: http://nerdist.com/wp-content/uploads/2015/02/OVER-9000-e1425115224556.jpg
+
+
 * Python  [**...]
 * PostgreSQL (Relational db) [**...]
 * Machine Learning and Data Processing [**...]
