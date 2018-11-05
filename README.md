@@ -3,7 +3,7 @@ A personal catalog of skills gained/reviewed/honed and links to useful resources
 
 ## Topics Learned
 
-* January 2018 - May 2018 [Resilient Coders Bootcamp]
+* January 2018 - May 2018 (Resilient Coders Bootcamp)
     [1.] HTML
     2. CSS (CSS Grid)
     3. Javascript (jQuery, Vanilla, and ES6+)
