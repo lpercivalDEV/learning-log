@@ -108,19 +108,39 @@ Skill breakdown from [*....] to  [*****]
 for when I forget markdown lol:
 https://en.wikipedia.org/wiki/Markdown#Example
 
-
+CSS:
 https://scrimba.com/p/pWqLHa/cMQgGca
 
+Cool JS/p5 stuff:
 https://www.youtube.com/user/shiffman
 
+General JS review stuff:
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+
+PostgreSQL/SQL:
 https://www.postgresql.org/docs/online-resources/
+
 https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php
+
 https://www.w3schools.com/sql/sql_intro.asp
+
 https://www.webdeveloper.com/forum/d/286773-converting-sql-script-to-javascript/2
+
 https://www.tutorialspoint.com/execute_sql_online.php
+
 http://sqlfiddle.com
 
+React Native:
 https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm
+
+
+ ### Stuff for Tech Interview Prep:
+  
+  JS Data Structures and Algorithms Review:
+   https://www.youtube.com/watch?v=t2CEgPsws3U
+
+  JS Async Review:
+   https://www.youtube.com/watch?v=PoRJizFvM7s
 
 
 
