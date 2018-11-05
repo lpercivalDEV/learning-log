@@ -59,9 +59,11 @@ www.lillythedev.com
     
     2.) Set up and basic use of LAMP stack (for running program GUI on local server)
     
-    3.) Network adjustments (for different wifi networks and different country codes) and installation of libraries/packages for raspberry pi
+    3.) Network adjustments (for different wifi networks and different country codes)
     
-    4.) SSH into raspberry pi from laptop
+    4.) Installation of libraries/packages for raspberry pi
+    
+    5.) SSH into raspberry pi from laptop
   
 
   **Other Skills**
