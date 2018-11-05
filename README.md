@@ -82,6 +82,10 @@ Skill breakdown from [*....] to  [*****]
 
 [**...]: https://memegenerator.net/img/instances/51470542/patience-padawan-getting-there-we-are-almost.jpg
 
+[***..]: https://pics.onsizzle.com/if-you-overeat-continue-eating-you-cant-overeat-twice-think-16389994.png
+
+[****.]: http://www.relatably.com/m/img/solid-memes/metal-gear-solid-1998---2014_c_2967333.jpg
+
 [*****]: http://nerdist.com/wp-content/uploads/2015/02/OVER-9000-e1425115224556.jpg
 
 
