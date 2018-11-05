@@ -53,7 +53,18 @@ www.lillythedev.com
     5.) Docker 
 
 
-**Other Skills**
+  **August 2018 - October 2018**
+   
+    1.) Programming and using Raspberry Pi
+    
+    2.) Set up and basic use of LAMP stack (for running program GUI on local server)
+    
+    3.) Network adjustments (for different wifi networks and different country codes) and installation of libraries/packages for raspberry pi
+    
+    4.) SSH into raspberry pi from laptop
+  
+
+  **Other Skills**
 
     * AutoCAD
     * Iterative Design and Development
