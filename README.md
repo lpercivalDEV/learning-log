@@ -1,9 +1,23 @@
 # learning-log
 A personal catalog of skills gained/reviewed/honed and links to useful resources (and relevant code samples from my portfolio).  
 
+www.lillythedev.com
+
+
 ## Topics Learned
 
-* January 2018 - May 2018 (Resilient Coders Bootcamp)
+**June 2016 - August 2016 (Harvard Robotics Lab)**
+
+    1.) SolidWorks
+    
+    2.) Laser Cutter use
+    
+    3.) Arduino and basic electronics (soldering, circuits, etc.)
+    
+    4.) Testing (physical/obstacle tests for robot)
+    
+
+**January 2018 - April 2018 (Resilient Coders Bootcamp)**
 
     1.) HTML
     
@@ -24,23 +38,55 @@ A personal catalog of skills gained/reviewed/honed and links to useful resources
     9.) Agile workflows
     
     10.) OOP principles and best practices
+    
+   
+  **June 2018 - August 2018 (SR - XT Team)**
+    
+    1.) Exposure to digital advertising industry 
+    
+    2.) Work with team of other developers (dev branch/test branch/prod branch, pulls and merges)
+    
+    3.) Introduction to Wordpress, PHP, and MySQL
+    
+    4.) Bitbucket and Jira
+    
+    5.) Docker 
 
 
 ## In Progress
 
-* Python
-* PostGreSQL (Relational db)
-* Machine Learning and Data Processing
-* p5.js
-* Data Visualization
-
+* Python  [**...]
+* PostgreSQL (Relational db) [**...]
+* Machine Learning and Data Processing [**...]
+* p5.js [*....]
+* Data Visualization [*....]
+* WordPress [*....]
+* PHP [*....]
+* MySQL [*....]
+* React Native [**...]
 
 
 
 ## Useful Resources 
 
+(will organize later...eventually...)
+
+for when I forget markdown lol:
+https://en.wikipedia.org/wiki/Markdown#Example
 
 
+https://scrimba.com/p/pWqLHa/cMQgGca
+
+https://www.youtube.com/user/shiffman
+
+https://www.postgresql.org/docs/online-resources/
+https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php
+https://www.w3schools.com/sql/sql_intro.asp
+https://www.webdeveloper.com/forum/d/286773-converting-sql-script-to-javascript/2
+https://www.tutorialspoint.com/execute_sql_online.php
+http://sqlfiddle.com
+
+https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm
 
 
 
