@@ -1,5 +1,5 @@
 # learning-log
-A personal catalog of skills gained/reviewed/honed and links to useful resources (and relevant code samples from my portfolio).  
+ A personal catalog of skills gained/reviewed/honed and links to useful resources (and relevant code samples from my portfolio). This is a constant work in progress. Just like me.
 
 www.lillythedev.com
 
