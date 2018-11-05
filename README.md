@@ -109,14 +109,18 @@ Skill breakdown from [*....] to  [*****]
 for when I forget markdown lol:
 https://en.wikipedia.org/wiki/Markdown#Example
 
+ -------------------------------------------------------
 
 CSS:
 https://scrimba.com/p/pWqLHa/cMQgGca
 
 
+ -------------------------------------------------------
+
 Cool JS/p5 stuff:
 https://www.youtube.com/user/shiffman
 
+ -------------------------------------------------------
 
 General JS review stuff:
 
@@ -124,6 +128,7 @@ https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 
+ -------------------------------------------------------
 
 PostgreSQL/SQL:
 
@@ -139,9 +144,12 @@ https://www.tutorialspoint.com/execute_sql_online.php
 
 http://sqlfiddle.com
 
+ -------------------------------------------------------
 
 React Native:
 https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm
+
+ -------------------------------------------------------
 
 Rust:
 
