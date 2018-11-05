@@ -118,6 +118,7 @@ General JS review stuff:
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 PostgreSQL/SQL:
+
 https://www.postgresql.org/docs/online-resources/
 
 https://www.w3resource.com/sql-exercises/sql-retrieve-from-table.php
