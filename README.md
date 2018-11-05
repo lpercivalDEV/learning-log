@@ -5,7 +5,7 @@ A personal catalog of skills gained/reviewed/honed and links to useful resources
 
 * January 2018 - May 2018 (Resilient Coders Bootcamp)
 
-    1. HTML
+    1.) HTML
     
     2.) CSS (CSS Grid)
     
