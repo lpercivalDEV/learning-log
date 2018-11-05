@@ -98,6 +98,7 @@ Skill breakdown from [*....] to  [*****]
 * PHP [*....]
 * MySQL [*....]
 * React Native [**...]
+* RUST [*....]
 
 
 
@@ -141,6 +142,15 @@ http://sqlfiddle.com
 
 React Native:
 https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm
+
+Rust:
+
+https://github.com/lpercivalDEV/learning-log
+
+https://doc.rust-lang.org/book/2018-edition/index.html
+
+https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
+
 
 
  ### Stuff for Tech Interview Prep:
