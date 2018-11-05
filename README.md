@@ -53,6 +53,13 @@ www.lillythedev.com
     5.) Docker 
 
 
+**Other Skills**
+
+    * AutoCAD
+    * Iterative Design and Development
+    * Very basic Rheometry (soft materials testing)
+    
+
 ## In Progress
 
 * Python  [**...]
