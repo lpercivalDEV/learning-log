@@ -132,6 +132,8 @@ testing: https://codeburst.io/testing-your-javascript-code-95c171c71647
 
 classes w/ES6:  https://www.youtube.com/watch?v=T-HGdc8L-7w
 
+Codility: https://app.codility.com/programmers/lessons/1-iterations/
+
 _______________________________________________________
 
 **PostgreSQL/SQL:**
