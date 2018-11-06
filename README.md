@@ -164,8 +164,30 @@ _______________________________________________________
 
 **Python:**
 
+Comprehensive Tutorial: https://www.youtube.com/watch?v=N4mEzFDjqtA
+
 Testing: https://docs.python-guide.org/writing/tests/
 
+Cool projects: 
+
+Notebooks/IDE's: 
+
+https://jupyter.org
+
+https://www.jetbrains.com/pycharm/
+
+https://www.anaconda.com/download/#linux
+
+https://github.com/spyder-ide
+
+
+_______________________________________________________
+
+**Machine Learning**
+
+
+
+_______________________________________________________
 
  ### Stuff for Tech Interview Prep:
   
