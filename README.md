@@ -111,17 +111,18 @@ https://en.wikipedia.org/wiki/Markdown#Example
 
 _______________________________________________________
 
-CSS:
+**CSS:**
+
 https://scrimba.com/p/pWqLHa/cMQgGca
 
 _______________________________________________________
 
-Cool JS/p5 stuff:
+**Cool JS/p5 stuff:**
 https://www.youtube.com/user/shiffman
 
 _______________________________________________________
 
-General JS review stuff:
+**General JS review stuff:**
 
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
@@ -129,7 +130,7 @@ https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
 
 _______________________________________________________
 
-PostgreSQL/SQL:
+**PostgreSQL/SQL:**
 
 https://www.postgresql.org/docs/online-resources/
 
@@ -145,12 +146,13 @@ http://sqlfiddle.com
 
 _______________________________________________________
 
-React Native:
+**React Native:**
+
 https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm
 
 _______________________________________________________
 
-Rust:
+**Rust:**
 
 https://github.com/lpercivalDEV/learning-log
 
@@ -158,6 +160,11 @@ https://doc.rust-lang.org/book/2018-edition/index.html
 
 https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
 
+_______________________________________________________
+
+**Python:**
+
+Testing: https://docs.python-guide.org/writing/tests/
 
 
  ### Stuff for Tech Interview Prep:
