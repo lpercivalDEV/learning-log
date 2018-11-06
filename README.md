@@ -124,9 +124,13 @@ _______________________________________________________
 
 **General JS review stuff:**
 
-https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+data structures: https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
-https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+async JS: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+
+testing: https://codeburst.io/testing-your-javascript-code-95c171c71647
+
+classes w/ES6:  https://www.youtube.com/watch?v=T-HGdc8L-7w
 
 _______________________________________________________
 
@@ -164,11 +168,17 @@ _______________________________________________________
 
 **Python:**
 
-Comprehensive Tutorial: https://www.youtube.com/watch?v=N4mEzFDjqtA
+Tutorials:
+
+  * Traditional walkthrough: https://www.learnpython.org
+   
+  * Comprehensive video: https://www.youtube.com/watch?v=N4mEzFDjqtA
 
 Testing: https://docs.python-guide.org/writing/tests/
 
-Cool projects: 
+
+Cool projects:  
+
 
 Notebooks/IDE's: 
 
@@ -185,6 +195,28 @@ _______________________________________________________
 
 **Machine Learning**
 
+Tutorials:
+
+https://blog.akquinet.de/2017/09/19/predicting-house-prices-on-kaggle-part-i/
+
+https://www.kaggle.com/c/titanic
+
+
+Open Source ML tool: https://github.com/rasahq
+
+
+--- Articles --- 
+Bias:  
+
+http://markyatskar.com//publications/bias.pdf
+
+https://cacm.acm.org/magazines/2016/9/206255-designing-ai-systems-that-obey-our-laws-and-values/abstract
+
+Other:
+
+https://ai.googleblog.com/2018/08/Multilingual-Google-Assistant.html
+
+https://www.technologyreview.com/the-download/612348/a-controversial-artwork-created-by-ai-has-hauled-in-435000-at-auction/
 
 
 _______________________________________________________
@@ -197,6 +229,14 @@ _______________________________________________________
   JS Async Review:
    https://www.youtube.com/watch?v=PoRJizFvM7s
 
+
+### Interesting Reads:
+
+https://www.technologyreview.com/the-download/
+
+https://news.ycombinator.com/
+
+https://www.charlierussellbears.com/LinguisticArchaeology.html
 
 
 ## Future Learning Goals
