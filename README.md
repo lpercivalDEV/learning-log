@@ -1,5 +1,5 @@
 # learning-log
- A personal catalog of skills gained/reviewed/honed and links to useful resources (and relevant code samples from my portfolio). This is a constant work in progress. Just like me.
+ A personal catalog of skills gained, things to review, and links to useful resources. This is a constant work in progress. Just like me.
  
  While this is mostly just a way for me to keep track of learning achievements, goals, and useful resources - I hope that anyone who stumbles across this list will find it somewhat helpful!  :)
  
@@ -266,4 +266,6 @@ https://www.charlierussellbears.com/LinguisticArchaeology.html
 * Unity 
 * C
 * More experience with hardware
+
+* ADD LINKS TO RELEVANT PORTFOLIO PROJECTS !!!
 
