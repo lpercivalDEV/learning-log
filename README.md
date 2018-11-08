@@ -225,6 +225,8 @@ _______________________________________________________
   
   JS Data Structures and Algorithms Review:
    https://www.youtube.com/watch?v=t2CEgPsws3U
+   
+   http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/
 
   JS Async Review:
    https://www.youtube.com/watch?v=PoRJizFvM7s
