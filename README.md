@@ -229,9 +229,10 @@ _______________________________________________________
   JS Async Review:
    https://www.youtube.com/watch?v=PoRJizFvM7s
 
-  Codility: https://app.codility.com/programmers/lessons/1-iterations/
-
-
+  Codility: https://app.codility.com/programmers/lessons/
+  
+  JS Algorithms: https://medium.com/@yanganif/tackling-javascript-algorithms-66f1ac9770dc
+  
 ### Interesting Reads:
 
 https://www.technologyreview.com/the-download/
