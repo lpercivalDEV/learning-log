@@ -226,11 +226,14 @@ _______________________________________________________
   JS Data Structures and Algorithms Review:
    https://www.youtube.com/watch?v=t2CEgPsws3U
    
-   DS:
+   Data Structures:
    http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/
    
-   Alg:
+   Algorithms:
    http://blog.benoitvallon.com/sorting-algorithms-in-javascript/sorting-algorithms-in-javascript/
+   
+   Sorting Algorithm Practice KA:
+   https://khan4019.github.io/front-end-Interview-Questions/sort.html
 
   JS Async Review:
    https://www.youtube.com/watch?v=PoRJizFvM7s
