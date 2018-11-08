@@ -267,5 +267,8 @@ https://www.charlierussellbears.com/LinguisticArchaeology.html
 * C
 * More experience with hardware
 
+## To Do:
+* Better organize resources and skills
 * ADD LINKS TO RELEVANT PORTFOLIO PROJECTS !!!
-
+* Enhance readability
+* Add pics of projects linked from portfolio!
