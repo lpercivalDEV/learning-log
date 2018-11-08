@@ -250,6 +250,8 @@ _______________________________________________________
   
   leetcode: https://leetcode.com
   
+  MATH!: https://projecteuler.net
+  
 ### Interesting Reads:
 
 https://www.technologyreview.com/the-download/
