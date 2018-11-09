@@ -154,6 +154,8 @@ https://www.tutorialspoint.com/execute_sql_online.php
 
 http://sqlfiddle.com
 
+List of Common SQL Commands:    https://www.codecademy.com/articles/sql-commands
+
 _______________________________________________________
 
 **React Native:**
