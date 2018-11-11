@@ -138,6 +138,8 @@ testing: https://codeburst.io/testing-your-javascript-code-95c171c71647
 
 classes w/ES6:  https://www.youtube.com/watch?v=T-HGdc8L-7w
 
+hoisting: https://scotch.io/tutorials/understanding-hoisting-in-javascript
+
 _______________________________________________________
 
 **PostgreSQL/SQL:**
