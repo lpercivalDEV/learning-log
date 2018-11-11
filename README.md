@@ -254,6 +254,8 @@ _______________________________________________________
   
   JS Algorithm Practice:   http://www.thatjsdude.com/interview/js1.html
   
+  https://github.com/kennymkchan/interview-questions-in-javascript
+  
   leetcode: https://leetcode.com
   
   MATH!: https://projecteuler.net
