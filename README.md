@@ -140,6 +140,8 @@ classes w/ES6:  https://www.youtube.com/watch?v=T-HGdc8L-7w
 
 hoisting: https://scotch.io/tutorials/understanding-hoisting-in-javascript
 
+common mistakes:  https://www.dummies.com/web-design-development/javascript/10-common-javascript-bugs-and-how-to-avoid-them/
+
 _______________________________________________________
 
 **PostgreSQL/SQL:**
