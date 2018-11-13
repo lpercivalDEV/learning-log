@@ -273,7 +273,7 @@ https://www.charlierussellbears.com/LinguisticArchaeology.html
 
 ## Future Learning Goals
 
-* Virtual Reality
+* Virtual Reality (AFrame ...)
 * Animation
 * Unity 
 * C
