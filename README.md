@@ -99,6 +99,7 @@ Skill breakdown from [*....] to  [*****]
 * PostgreSQL (Relational db) [**...]
 * Machine Learning and Data Processing [**...]
 * p5.js [*....]
+  - example project (WIP):  https://github.com/lpercivalDEV/bubbles
 * Data Visualization [*....]
 * WordPress [*....]
 * PHP [*....]
@@ -106,7 +107,7 @@ Skill breakdown from [*....] to  [*****]
 * React Native [**...]
 * RUST [*....]
 * Basic Algorithms [**...]  
-  - example project:  LINK TO BUBBLE SORT PROJECT !
+  - example project (WIP):  https://github.com/lpercivalDEV/sort-demo
 
 
 
