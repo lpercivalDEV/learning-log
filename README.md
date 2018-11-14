@@ -105,6 +105,8 @@ Skill breakdown from [*....] to  [*****]
 * MySQL [*....]
 * React Native [**...]
 * RUST [*....]
+* Basic Algorithms [**...]  
+  - example project:  LINK TO BUBBLE SORT PROJECT !
 
 
 
