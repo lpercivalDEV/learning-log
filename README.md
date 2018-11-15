@@ -126,10 +126,10 @@ https://scrimba.com/p/pWqLHa/cMQgGca
 
 _______________________________________________________
 
-**Cool JS/p5 stuff:**
+**p5.js stuff:**
 https://www.youtube.com/user/shiffman
 
-**JS/D3 stuff**
+**D3.js stuff**
 https://bost.ocks.org/mike/
 
 
