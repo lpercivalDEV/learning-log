@@ -132,6 +132,11 @@ https://www.youtube.com/user/shiffman
 **JS/D3 stuff**
 https://bost.ocks.org/mike/
 
+
+What Makes Software Good:  https://medium.com/@mbostock/what-makes-software-good-943557f8a488
+
+A Better Way to Code:    https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0
+
 _______________________________________________________
 
 **General JS review stuff:**
@@ -238,6 +243,13 @@ https://www.technologyreview.com/the-download/612348/a-controversial-artwork-cre
 
 
 _______________________________________________________
+
+### Other:
+
+Software Development Lifecycle:   https://en.wikipedia.org/wiki/Systems_development_life_cycle
+
+_______________________________________________________
+
 
  ### Stuff for Tech Interview Prep:
   
