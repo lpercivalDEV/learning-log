@@ -129,6 +129,9 @@ _______________________________________________________
 **Cool JS/p5 stuff:**
 https://www.youtube.com/user/shiffman
 
+**JS/D3 stuff**
+https://bost.ocks.org/mike/
+
 _______________________________________________________
 
 **General JS review stuff:**
