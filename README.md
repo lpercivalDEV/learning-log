@@ -276,6 +276,12 @@ _______________________________________________________
   
   JS Algorithm Practice:   http://www.thatjsdude.com/interview/js1.html
   
+  http://www.thatjsdude.com/interview/js2.html
+  
+  
+
+https://khan4019.github.io/front-end-Interview-Questions/sort.html
+  
   https://github.com/kennymkchan/interview-questions-in-javascript
   
   leetcode: https://leetcode.com
