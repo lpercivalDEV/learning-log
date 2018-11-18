@@ -177,6 +177,8 @@ _______________________________________________________
 
 https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm
 
+https://docs.fastlane.tools/getting-started/cross-platform/react-native/
+
 _______________________________________________________
 
 **Rust:**
