@@ -254,6 +254,8 @@ Software Development Lifecycle:   https://en.wikipedia.org/wiki/Systems_developm
 
 Algorithms:   bost.ocks.org/mike/algorithms/
 
+React Tic-Tac-Toe AI Tutorial:  https://mostafa-samir.github.io/Tic-Tac-Toe-AI/
+
 _______________________________________________________
 
 
