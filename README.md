@@ -153,6 +153,8 @@ hoisting: https://scotch.io/tutorials/understanding-hoisting-in-javascript
 
 common mistakes:  https://www.dummies.com/web-design-development/javascript/10-common-javascript-bugs-and-how-to-avoid-them/
 
+JS learning garden:  https://bonsaiden.github.io/JavaScript-Garden/
+
 _______________________________________________________
 
 **PostgreSQL/SQL:**
