@@ -228,8 +228,40 @@ https://blog.akquinet.de/2017/09/19/predicting-house-prices-on-kaggle-part-i/
 
 https://www.kaggle.com/c/titanic
 
-
 Open Source ML tool: https://github.com/rasahq
+
+Algorithmic Justice League:  https://www.ajlunited.org
+
+Bad Data --> Useless ML Tools : https://hbr.org/2018/04/if-your-data-is-bad-your-machine-learning-tools-are-useless
+
+Preparing Data Sets:  https://www.youtube.com/watch?v=0xVqLJe9_CY
+
+Tensor Flow 101:  https://www.youtube.com/watch?v=arl8O22aa6I
+
+Tensor Flow Examples:   http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/
+
+Reddit Data Sets:   https://www.reddit.com/r/datasets/
+
+Public Data Sets:   https://github.com/awesomedata/awesome-public-datasets
+
+Zillow API:  https://www.zillow.com/research/data/#bulk
+
+
+**Kaggle Data Sets**
+
+Kaggle Data Sets:  https://www.kaggle.com/datasets
+
+US Census Data:   https://www.kaggle.com/muonneutrino/us-census-demographic-data
+
+Boston Data Sets:   https://www.kaggle.com/datasets?sortBy=relevance&group=public&search=boston&page=1&pageSize=20&size=all&filetype=all&license=all
+
+Zillow Data Sets: https://www.kaggle.com/zillow/zecon
+
+MA Public Schools Data Sets:  https://www.kaggle.com/ndalziel/massachusetts-public-schools-data
+
+Medium Listing Price:  https://www.kaggle.com/zillow/median-listing-price-1-bedroom
+
+
 
 
 --- Articles --- 
@@ -251,7 +283,6 @@ _______________________________________________________
 ### VR:
 
 A-Frame:  https://aframe.io
-
 
 _______________________________________________________
 
@@ -308,6 +339,31 @@ _______________________________________________________
   
   Tech Interview Prep:  https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8
   
+  
+  
+**Random Shit from Notes:**
+
+  Naive Bayes Classifier in JS:    https://miguelmota.com/blog/naive-bayes-classifier-in-javascript/
+  
+  Longest Substring No Repeats:  https://stackoverflow.com/questions/9734474/find-longest-substring-without-repeating-characters
+  
+  Longest Substring with Unique Characters: https://stackoverflow.com/questions/21119224/find-longest-substring-of-n-unique-characters
+  
+  String Length Property: https://www.w3schools.com/jsref/jsref_length_string.asp
+  
+  JS String Prototype Property:  https://www.w3schools.com/jsref/jsref_prototype_string.asp
+  
+  JS String Reference:   https://www.w3schools.com/jsref/jsref_obj_string.asp
+  
+  JS Bin example from Jose: https://jsbin.com/jozexomiyu/edit?js,console,output
+  
+  React Generated Table:   https://codesandbox.io/s/x6nplxprw
+
+  google maps API:  https://developers.google.com/maps/documentation/javascript/tutorial
+
+  
+_______________________________________________________
+
 
 ### Interesting Reads:
 
