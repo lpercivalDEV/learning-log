@@ -132,6 +132,8 @@ https://www.youtube.com/user/shiffman
 **D3.js stuff**
 https://bost.ocks.org/mike/
 
+Learn D3 in 5 minutes:  https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725
+
 
 What Makes Software Good:  https://medium.com/@mbostock/what-makes-software-good-943557f8a488
 
@@ -224,9 +226,14 @@ _______________________________________________________
 
 Tutorials:
 
-https://blog.akquinet.de/2017/09/19/predicting-house-prices-on-kaggle-part-i/
+Udacity ML Curriculuum:   https://github.com/udacity/machine-learning
 
-https://www.kaggle.com/c/titanic
+Housing Prices: https://blog.akquinet.de/2017/09/19/predicting-house-prices-on-kaggle-part-i/
+
+Titanic Survivors:  https://www.kaggle.com/c/titanic
+
+
+Data Sets and Resources:
 
 Open Source ML tool: https://github.com/rasahq
 
@@ -244,6 +251,8 @@ Reddit Data Sets:   https://www.reddit.com/r/datasets/
 
 Public Data Sets:   https://github.com/awesomedata/awesome-public-datasets
 
+UCI Data Sets:   https://archive.ics.uci.edu/ml/datasets.html
+
 Zillow API:  https://www.zillow.com/research/data/#bulk
 
 
@@ -260,6 +269,8 @@ Zillow Data Sets: https://www.kaggle.com/zillow/zecon
 MA Public Schools Data Sets:  https://www.kaggle.com/ndalziel/massachusetts-public-schools-data
 
 Medium Listing Price:  https://www.kaggle.com/zillow/median-listing-price-1-bedroom
+
+Boston Housing Data Sets: https://www.kaggle.com/schirmerchad/bostonhoustingmlnd
 
 
 
@@ -361,6 +372,8 @@ _______________________________________________________
 
   google maps API:  https://developers.google.com/maps/documentation/javascript/tutorial
 
+  Elevator Saga Game:  http://play.elevatorsaga.com
+  
   
 _______________________________________________________
 
