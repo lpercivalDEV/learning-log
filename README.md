@@ -374,7 +374,42 @@ _______________________________________________________
 
   Elevator Saga Game:  http://play.elevatorsaga.com
   
+  Every Solar Eclipse in Your Lifetime:   https://www.washingtonpost.com/graphics/national/eclipse/
   
+  10 Best Data Visualization Projects 2017:  https://flowingdata.com/2017/12/28/10-best-data-visualization-projects-of-2017/
+  
+  True Size Of Map:   https://thetruesize.com/#?borders=1~!MTczNDk0NzI.MTI0MDk0NQ*MzYwMDAwMDA(MA~!CONTIGUOUS_US*MTAwMjQwNzU.MjUwMjM1MTc(MTc1)MA~!IN*NTI2NDA1MQ.Nzg2MzQyMQ)MQ~!CN*OTkyMTY5Nw.NzMxNDcwNQ(MjI1)Mg
+  
+  Best Practices in Data Visualizations:   https://www.microstrategy.com/Strategy/media/downloads/training-events/microstrategy-world/2014-barcelona/MSTRWorldEU2014_T1_S3_Best_Practices_in_Data_Visualizations.pdf?ext=.pdf
+  
+  Field Papers Atlas Tool:  https://stamen.com/work/field-papers/
+  
+  Keylight (experiments with HTML5):   https://lab.hakim.se/keylight/03b/#687x768_685x660_471x568_388x735_821x412_655x316_135x645_207x866_292x372_3
+  
+  https://lab.hakim.se/keylight/03b/#687x768_685x660_249x278_388x735_821x412_655x316_135x645_207x866_287x395_470x412_312x203_911x759_821x276_779x532_555x207_3
+  
+  High Charts Demo:   https://www.highcharts.com/maps/demo/us-counties
+  
+  CSS Grid:  https://css-tricks.com/snippets/css/complete-guide-grid/
+  
+  Learn Python in 5 min:  https://www.stavros.io/tutorials/python/
+
+  React.js:    https://reactjs.org/tutorial/tutorial.html
+
+               https://reactjs.org/docs/hello-world.html
+
+  JS Tutorial:   https://javascript.info
+  
+  Redux: https://egghead.io/courses/getting-started-with-redux
+
+  Front-End Developer Handbook: https://frontendmasters.com/books/front-end-handbook/2018/
+
+  Ring Buffer Challenge: https://github.com/lpercivalDEV/ring-challenge
+https://codepen.io/lpercivalDEV/pen/XYKLRe
+
+  Expect: https://github.com/mjackson/expect
+
+
 _______________________________________________________
 
 
