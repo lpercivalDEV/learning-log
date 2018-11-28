@@ -143,6 +143,8 @@ _______________________________________________________
 
 **General JS review stuff:**
 
+Glitch.io:  https://glitch.com
+
 data structures: https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 async JS: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
@@ -156,6 +158,12 @@ hoisting: https://scotch.io/tutorials/understanding-hoisting-in-javascript
 common mistakes:  https://www.dummies.com/web-design-development/javascript/10-common-javascript-bugs-and-how-to-avoid-them/
 
 JS learning garden:  https://bonsaiden.github.io/JavaScript-Garden/
+
+programmatically change colors:  https://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color-or-rgb-and-blend-colors/13542669#13542669
+
+https://color-gradient.glitch.me
+
+
 
 _______________________________________________________
 
