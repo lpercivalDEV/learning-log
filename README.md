@@ -358,6 +358,8 @@ _______________________________________________________
   
   Tech Interview Prep:  https://medium.com/educative/3-month-coding-interview-bootcamp-904422926ce8
   
+  Fundamental JS Codewars Katas:   https://github.com/vanely/Katas-list-of-Training-JS-series
+  
   
   
 **Random Shit from Notes:**
