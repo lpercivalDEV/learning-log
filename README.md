@@ -340,6 +340,8 @@ _______________________________________________________
 
   Codility: https://app.codility.com/programmers/lessons/
   
+  Codility Sample Problems: https://github.com/gustavohenke/codility
+  
   JS Algorithms: https://medium.com/@yanganif/tackling-javascript-algorithms-66f1ac9770dc
   
   JS Algorithm Practice:   http://www.thatjsdude.com/interview/js1.html
