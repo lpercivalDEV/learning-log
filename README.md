@@ -316,6 +316,8 @@ Algorithms:   bost.ocks.org/mike/algorithms/
 
 React Tic-Tac-Toe AI Tutorial:  https://mostafa-samir.github.io/Tic-Tac-Toe-AI/
 
+2018 Advent of Code: https://adventofcode.com/2018/
+
 _______________________________________________________
 
 
