@@ -360,6 +360,7 @@ _______________________________________________________
   
   Fundamental JS Codewars Katas:   https://github.com/vanely/Katas-list-of-Training-JS-series
   
+  Post-bootcamp Job Search: https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331
   
   
 **Random Shit from Notes:**
