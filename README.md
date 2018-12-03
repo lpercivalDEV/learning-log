@@ -364,6 +364,16 @@ _______________________________________________________
   
   Post-bootcamp Job Search: https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331
   
+  Interview Cake (Not free but contains DS and Algs): https://www.interviewcake.com
+  
+  Hired in Tech (System Design Interview Prep):  https://www.hiredintech.com/classrooms/system-design/lesson/60
+  
+  CodeRust (Not free - tech questions walkthroughs): https://www.educative.io/collection/5642554087309312/5679846214598656
+  
+  Reddit - Tech Interview Prep: https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
+  
+  GitHub - Common Front End Developer Questions:  https://github.com/h5bp/Front-end-Developer-Interview-Questions
+  
   
 **Random Shit from Notes:**
 
