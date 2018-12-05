@@ -292,6 +292,8 @@ https://cacm.acm.org/magazines/2016/9/206255-designing-ai-systems-that-obey-our-
 
 Other:
 
+https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c
+
 https://ai.googleblog.com/2018/08/Multilingual-Google-Assistant.html
 
 https://www.technologyreview.com/the-download/612348/a-controversial-artwork-created-by-ai-has-hauled-in-435000-at-auction/
