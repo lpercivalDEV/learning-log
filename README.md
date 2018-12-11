@@ -240,6 +240,10 @@ Housing Prices: https://blog.akquinet.de/2017/09/19/predicting-house-prices-on-k
 
 Titanic Survivors:  https://www.kaggle.com/c/titanic
 
+Neural Network Intro Vid:  https://www.youtube.com/watch?v=aircAruvnKk
+
+Coursera ML Course: https://www.coursera.org/learn/machine-learning/home/welcome
+
 
 Data Sets and Resources:
 
