@@ -251,6 +251,8 @@ Open Source ML tool: https://github.com/rasahq
 
 Algorithmic Justice League:  https://www.ajlunited.org
 
+Not Flawless AI:  https://www.notflawless.ai
+
 Bad Data --> Useless ML Tools : https://hbr.org/2018/04/if-your-data-is-bad-your-machine-learning-tools-are-useless
 
 Preparing Data Sets:  https://www.youtube.com/watch?v=0xVqLJe9_CY
