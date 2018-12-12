@@ -185,7 +185,9 @@ List of Common SQL Commands:    https://www.codecademy.com/articles/sql-commands
 
 _______________________________________________________
 
-**React Native:**
+**React/Native:**
+
+https://www.gatsbyjs.org/docs/
 
 https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm
 
