@@ -388,6 +388,8 @@ _______________________________________________________
   
   GitHub - Common Front End Developer Questions:  https://github.com/h5bp/Front-end-Developer-Interview-Questions
   
+  Tips for Writing Clean Code:  https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c
+  
   
 **Random Shit from Notes:**
 
