@@ -163,6 +163,7 @@ programmatically change colors:  https://stackoverflow.com/questions/5560248/pro
 
 https://color-gradient.glitch.me
 
+Writing Clean Code:  https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c
 
 
 _______________________________________________________
