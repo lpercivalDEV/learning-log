@@ -452,6 +452,8 @@ _______________________________________________________
 https://codepen.io/lpercivalDEV/pen/XYKLRe
 
   Expect: https://github.com/mjackson/expect
+  
+  Intro to Testing with Mocha + Chai:  https://www.youtube.com/watch?v=MLTRHc5dk6s
 
 
 _______________________________________________________
