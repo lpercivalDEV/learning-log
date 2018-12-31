@@ -458,6 +458,82 @@ https://codepen.io/lpercivalDEV/pen/XYKLRe
 
 _______________________________________________________
 
+## Hardware ##
+
+Here are some resources I have found helpful for anyone who is interested in getting into electronics/hardware:
+
+*Supplies:*
+adafruit.com
+Microcenter
+
+
+*Tutorials:*
+learn.adafruit.com
+
+https://m.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA
+
+https://m.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs
+
+https://m.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-
+
+
+*Raspberry Pi's:*
+https://www.raspberrypi.org/
+
+https://www.raspberrypi.org/forums/
+
+https://www.raspberrypi.org/downloads/
+
+https://m.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng
+
+Additional pi channels: https://m.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng/channels
+
+
+*Arduino:*
+https://www.arduino.cc/
+
+https://m.youtube.com/user/arduinoteam
+
+Colin's Lab: https://m.youtube.com/watch?v=pnf8ojsK6S4
+
+https://www.arduino.cc/en/Tutorial/HomePage
+
+
+*Beaglebone:*
+http://beagleboard.org/bone
+
+https://www.adafruit.com/category/75
+
+https://learn.adafruit.com/category/beaglebone
+
+https://m.youtube.com/watch?v=thfxL7KAAyQ
+
+
+*General project inspiration/information:*
+
+The Ben Heck Show:
+https://m.youtube.com/user/benheckdotcom/videos
+
+Circuit Playground: 
+https://m.youtube.com/playlist?list=PLjF7R1fz_OOXWHQhEVEI5Jqf18TQRr5Hu
+
+Reddit:
+https://www.reddit.com/r/opensourcehardware
+
+https://www.reddit.com/r/electronics
+
+https://www.reddit.com/r/hardware
+
+
+*If you were told by apple care that you could walk into a store and get a part, but couldn't - this is a great channel to learn how to fix your own electronics:*
+
+https://m.youtube.com/user/rossmanngroup/videos
+
+(reference: https://youtu.be/jiyMx7rDKAM)
+
+
+_______________________________________________________
+
 
 ### Interesting Reads:
 
