@@ -486,7 +486,7 @@ https://www.raspberrypi.org/downloads/
 
 https://m.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng
 
-Additional pi channels: https://m.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng/channels
+`Additional pi channels:` https://m.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng/channels
 
 
 **Arduino:**
@@ -494,7 +494,7 @@ https://www.arduino.cc/
 
 https://m.youtube.com/user/arduinoteam
 
-Colin's Lab: https://m.youtube.com/watch?v=pnf8ojsK6S4
+`Colin's Lab:` https://m.youtube.com/watch?v=pnf8ojsK6S4
 
 https://www.arduino.cc/en/Tutorial/HomePage
 
@@ -514,7 +514,7 @@ https://m.youtube.com/watch?v=thfxL7KAAyQ
 `The Ben Heck Show:`
 https://m.youtube.com/user/benheckdotcom/videos
 
-Circuit Playground: 
+`Circuit Playground:` 
 https://m.youtube.com/playlist?list=PLjF7R1fz_OOXWHQhEVEI5Jqf18TQRr5Hu
 
 `Reddit:`
