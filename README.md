@@ -395,6 +395,8 @@ _______________________________________________________
   
   Tips for Writing Clean Code:  https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c
   
+  Constructor Patterns:    http://www.samselikoff.com/blog/some-Javascript-constructor-patterns/
+  
   
 **Random Shit from Notes:**
 
