@@ -399,6 +399,8 @@ _______________________________________________________
   
   Mocha JS:  https://mochajs.org
   
+  Fun With JS Native Array Functions:   https://modernweb.com/fun-with-javascript-native-array-functions/
+  
   
 **Random Shit from Notes:**
 
