@@ -274,6 +274,10 @@ UCI Data Sets:   https://archive.ics.uci.edu/ml/datasets.html
 
 Zillow API:  https://www.zillow.com/research/data/#bulk
 
+Open Source ML Book: https://en.d2l.ai/d2l-en.pdf
+
+Reddit List of ML Learning Resources:  https://www.reddit.com/r/learnprogramming/comments/afb1ne/dive_into_deep_learning_an_interactive_deep/
+
 
 **Kaggle Data Sets**
 
