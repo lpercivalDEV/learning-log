@@ -111,6 +111,22 @@ Skill breakdown from [*....] to  [*****]
 
 
 
+## Future Learning Goals
+
+* Virtual Reality (AFrame ...)
+* Animation
+* Unity 
+* C
+* More experience with hardware
+
+## To Do:
+* Better organize resources and skills
+* ADD LINKS TO RELEVANT PORTFOLIO PROJECTS !!!
+* Enhance readability
+* Add pics of projects linked from portfolio!
+
+
+
 ## Useful Resources 
 
 (will organize later...eventually...)
@@ -553,17 +569,3 @@ https://news.ycombinator.com/
 
 https://www.charlierussellbears.com/LinguisticArchaeology.html
 
-
-## Future Learning Goals
-
-* Virtual Reality (AFrame ...)
-* Animation
-* Unity 
-* C
-* More experience with hardware
-
-## To Do:
-* Better organize resources and skills
-* ADD LINKS TO RELEVANT PORTFOLIO PROJECTS !!!
-* Enhance readability
-* Add pics of projects linked from portfolio!
