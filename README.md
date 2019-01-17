@@ -131,7 +131,37 @@ Skill breakdown from [*....] to  [*****]
 
 (will organize later...eventually...)
 
-for when I forget markdown lol:
+Some resources for language frameworks, libraries, and guides/tutorials:
+
+**Python:**
+https://github.com/vinta/awesome-python
+
+**JS:**
+https://github.com/sorrycc/awesome-javascript
+
+**PHP:**
+https://github.com/ziadoz/awesome-php
+
+**Ruby:**
+https://github.com/markets/awesome-ruby
+
+**General lists and guides:**
+https://github.com/sindresorhus/awesome
+
+https://github.com/topics/awesome
+
+https://github.com/topics/awesome-lists
+
+https://github.com/danistefanovic/build-your-own-x
+
+https://github.com/tuvtran/project-based-learning
+
+https://github.com/P1xt/p1xt-guides
+
+
+_______________________________________________________
+
+For when I forget markdown lol:
 https://en.wikipedia.org/wiki/Markdown#Example
 
 _______________________________________________________
