@@ -172,6 +172,11 @@ https://scrimba.com/p/pWqLHa/cMQgGca
 
 _______________________________________________________
 
+**Anime.js**
+https://animejs.com
+
+_______________________________________________________
+
 **p5.js stuff:**
 https://www.youtube.com/user/shiffman
 
