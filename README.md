@@ -517,6 +517,26 @@ https://codepen.io/lpercivalDEV/pen/XYKLRe
   Intro to Testing with Mocha + Chai:  https://www.youtube.com/watch?v=MLTRHc5dk6s
 
 
+teamofg:
+
+JS Promises: https://davidwalsh.name/promises
+
+Angular - 2 Way Data Binding:  https://www.learnhowtoprogram.com/javascript/angular/two-way-data-binding
+
+Monolithic vs. Microservice Architecture: https://www.youtube.com/watch?v=RJkn9VHM7lc
+
+JS Prototype Inheritance:  https://www.youtube.com/watch?v=7oNWNlMrkpc
+
+Why Prototypal Inheritance Matters: https://aaditmshah.github.io/why-prototypal-inheritance-matters/
+
+Composition over Inheritance:  https://www.youtube.com/watch?time_continue=30&v=wfMtDGfHWpA
+
+
+
+
+
+
+
 _______________________________________________________
 
 ## Hardware ##
