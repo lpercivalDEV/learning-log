@@ -275,6 +275,8 @@ https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
 
 P Threads (linux):  https://en.wikipedia.org/wiki/POSIX_Threads
 
+Physical vs. Virtual Memory: https://www.differencebetween.com/difference-between-physical-and-vs-virtual-memory/
+
 _______________________________________________________
 
 **Python:**
