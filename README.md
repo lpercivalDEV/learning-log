@@ -264,10 +264,13 @@ _______________________________________________________
 Bootlin (kernel stuff): https://bootlin.com
  
 Interleaving: (definition) https://www.techopedia.com/definition/5683/interleaving
+
 (wiki) https://en.wikipedia.org/wiki/Interleaved_memory
+
 (visual example): https://4.bp.blogspot.com/-KkZASTLDLpI/UY5iurMY4wI/AAAAAAAAB8o/m0XQR__0hys/s1600/jello+salad.jpg
 
 Multi-thread vs. Single-thread: https://en.wikipedia.org/wiki/Thread_(computing)
+
 https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
 
 
