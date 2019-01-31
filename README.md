@@ -366,7 +366,7 @@ Medium Listing Price:  https://www.kaggle.com/zillow/median-listing-price-1-bedr
 
 Boston Housing Data Sets: https://www.kaggle.com/schirmerchad/bostonhoustingmlnd
 
-
+Python Package Index Census Data: https://pypi.org/project/CensusData/
 
 
 --- Articles --- 
