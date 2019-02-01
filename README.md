@@ -220,6 +220,8 @@ https://color-gradient.glitch.me
 
 Writing Clean Code:  https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c
 
+Amy Codes YT Channel: https://www.youtube.com/AmyCodes
+
 
 _______________________________________________________
 
