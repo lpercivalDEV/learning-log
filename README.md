@@ -194,6 +194,10 @@ _______________________________________________________
 
 **General JS review stuff:**
 
+Eloquent JavaScript:  https://eloquentjavascript.net
+
+Rithm School - JS Fundamentals: https://www.rithmschool.com/courses/javascript
+
 Glitch.io:  https://glitch.com
 
 data structures: https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
