@@ -544,6 +544,10 @@ https://codepen.io/lpercivalDEV/pen/XYKLRe
   
   Tech Sith (JS, Node, React, etc.):  https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg
 
+  Salary Comparison Site:  https://www.levels.fyi/comp.html
+  
+  JS Comics - by Erty:  https://erty.me/comics/js-comics/2
+
 
 teamofg:
 
