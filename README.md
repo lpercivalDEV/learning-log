@@ -541,6 +541,8 @@ https://codepen.io/lpercivalDEV/pen/XYKLRe
   Expect: https://github.com/mjackson/expect
   
   Intro to Testing with Mocha + Chai:  https://www.youtube.com/watch?v=MLTRHc5dk6s
+  
+  Tech Sith (JS, Node, React, etc.):  https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg
 
 
 teamofg:
