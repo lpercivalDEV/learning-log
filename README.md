@@ -421,7 +421,8 @@ _______________________________________________________
 
  ### Stuff for Tech Interview Prep:
  
-  List of Companies That Don't Do Typical Whiteboarding Interviews:  https://github.com/poteto/hiring-without-whiteboards
+  *List of Companies That Don't Do Typical Whiteboarding Interviews:*  
+       ` https://github.com/poteto/hiring-without-whiteboards `
   
   JS Data Structures and Algorithms Review:
    https://www.youtube.com/watch?v=t2CEgPsws3U
