@@ -131,6 +131,11 @@ Skill breakdown from [*....] to  [*****]
 
 (will organize later...eventually...)
 
+Topic backlog - how to prioritize learning goals: https://medium.freecodecamp.org/how-to-prioritize-what-you-learn-by-creating-a-topic-backlog-30d6a2a2c798
+
+Learn Git in different ways: https://try.github.io/
+
+
 Some resources for language frameworks, libraries, and guides/tutorials:
 
 **Python:**
