@@ -404,6 +404,12 @@ A-Frame:  https://aframe.io
 
 _______________________________________________________
 
+### 3D Modeling + Animation:
+
+Blender Guru Tutorials: https://m.youtube.com/user/AndrewPPrice
+
+_______________________________________________________
+
 
 ### Other:
 
