@@ -169,6 +169,8 @@ _______________________________________________________
 For when I forget markdown lol:
 https://en.wikipedia.org/wiki/Markdown#Example
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 _______________________________________________________
 
 **CSS:**
