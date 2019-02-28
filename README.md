@@ -382,6 +382,10 @@ Boston Housing Data Sets: https://www.kaggle.com/schirmerchad/bostonhoustingmlnd
 Python Package Index Census Data: https://pypi.org/project/CensusData/
 
 
+**Math Support**
+
+Animated Linear Algebra Textbook:  http://immersivemath.com/ila/index.html
+
 --- Articles --- 
 Bias:  
 
