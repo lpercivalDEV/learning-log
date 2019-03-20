@@ -173,6 +173,13 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 _______________________________________________________
 
+**HTML**
+
+10 HTML Elements You Didn't Know You Needed:  https://dev.to/emmawedekind/10-html-element-you-didnt-know-you-needed-3jo4
+
+_______________________________________________________
+
+
 **CSS:**
 
 https://scrimba.com/p/pWqLHa/cMQgGca
