@@ -236,6 +236,9 @@ Writing Clean Code:  https://medium.com/mindorks/how-to-write-clean-code-lessons
 
 Amy Codes YT Channel: https://www.youtube.com/AmyCodes
 
+RegEx Cheat Sheet:  https://dev.to/emmawedekind/regex-cheat-sheet-2j2a
+
+Problem Solving Tool Kit: https://itk.mitre.org/our-toolkit/
 
 _______________________________________________________
 
