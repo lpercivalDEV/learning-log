@@ -682,6 +682,8 @@ _______________________________________________________
 
 ### Interesting Reads:
 
+https://dev.to/
+
 https://www.technologyreview.com/the-download/
 
 https://news.ycombinator.com/
