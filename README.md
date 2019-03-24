@@ -580,6 +580,8 @@ https://codepen.io/lpercivalDEV/pen/XYKLRe
   
   JS Comics - by Erty:  https://erty.me/comics/js-comics/2
   
+  RESTful APIs (REST and HTTP): https://www.youtube.com/watch?v=Q-BpqyOT3a8
+  
   Stateless API:  https://stackoverflow.com/questions/34130036/how-to-understand-restful-api-is-stateless#34131829
   
 
