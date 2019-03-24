@@ -579,6 +579,9 @@ https://codepen.io/lpercivalDEV/pen/XYKLRe
   Salary Comparison Site:  https://www.levels.fyi/comp.html
   
   JS Comics - by Erty:  https://erty.me/comics/js-comics/2
+  
+  Stateless API:  https://stackoverflow.com/questions/34130036/how-to-understand-restful-api-is-stateless#34131829
+  
 
 
 teamofg:
