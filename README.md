@@ -142,6 +142,7 @@ Some resources for language frameworks, libraries, and guides/tutorials:
 https://github.com/vinta/awesome-python
 
 **JS:**
+The JS tutorial to end all tutorials:   https://javascript.info
 https://github.com/sorrycc/awesome-javascript
 
 **PHP:**
