@@ -602,8 +602,27 @@ Why Prototypal Inheritance Matters: https://aaditmshah.github.io/why-prototypal-
 Composition over Inheritance:  https://www.youtube.com/watch?time_continue=30&v=wfMtDGfHWpA
 
 
+### Recent resources - to be organized later (8-12-19):
 
+Useful Bash aliases and functions: https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions
 
+Expo:   https://expo.io/learn
+
+ProgCode:  https://www.progcode.org/
+
+OpenCV Illustration: https://vimeo.com/12774628
+
+ERD Diagrams:  https://www.smartdraw.com/entity-relationship-diagram/
+https://www.lucidchart.com/pages/er-diagrams
+https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/
+
+Bulma:  https://bulma.io/documentation/
+
+Emotion:  https://emotion.sh/docs/introduction
+
+Slow Mornings:  https://elemental.medium.com/why-slow-mornings-may-be-the-secret-to-tech-life-balance-b44c2139963b
+
+Rails Tutorial:  https://www.railstutorial.org/book/toy_app#cha-a_toy_app
 
 
 
